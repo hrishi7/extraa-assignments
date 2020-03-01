@@ -1,0 +1,12 @@
+Alogorithm for reversing of a linkedlist
+
+1. let prev = null;
+2. let current = head;
+3. let next = null;
+4. while(current != null)
+    next = current->next;
+    current->next = prev;
+    prev = current;
+    current = next;
+5. head = prev;
+6. return head;

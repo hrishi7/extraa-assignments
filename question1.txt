@@ -1,0 +1,5 @@
+At 30 min the minute hand is at 6 or 30*6 = 180 deg from 12
+
+At 10:30 the hour hand is between 10 and 11 and the angle formed from 12 is 30*10 +30*30/60 = 300+15 = 315 deg.
+
+angle between the two hands of the clock = 315–180 = 135 deg
